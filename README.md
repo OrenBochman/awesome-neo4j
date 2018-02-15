@@ -207,6 +207,10 @@ Neo4j graph database.
 
 - [Neo4j Certification](https://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
 
+## Books
+
+- [Graph Databases, 2nd Edition New Opportunities for Connected Data](http://shop.oreilly.com/product/0636920041832.do) By Ian Robinson, Jim Webber, Emil Eifrem
+- [Neo4j Cookbook Harness the power of Neo4j to perform complex data analysis over the course of 75 easy-to-follow recipes-Packt Publishing (2015)
 ## Miscellaneous
 
 - [Neo4j's Idea board](https://trello.com/b/2zFtvDnV/public-idea-board)
